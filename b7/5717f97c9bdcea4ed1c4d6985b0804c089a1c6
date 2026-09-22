@@ -1,0 +1,24 @@
+tests/check_community_links.py
+  s_53bf51f3253a58::t_7a8fa15fc0727d 1,29,32,34,46
+  s_53bf51f3253a58::t_ea561a25f511a6 2-28,30-31,33,35-45,47-48
+  s_53bf51f3253a58::t_c55712dd175467 49-51
+  s_53bf51f3253a58::t_cdd72fe6041470 52-56
+README.md
+  s_53bf51f3253a58::t_606d69f8ec24cf 386-387,389-396
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b75717f97c9bdcea4ed1c4d6985b0804c089a1c6",
+  "prompts": {},
+  "sessions": {
+    "s_53bf51f3253a58": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0c783-1376-7080-9358-114ddbb45ace",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
