@@ -1,0 +1,34 @@
+tests/test_router.py
+  s_606919b50c8c26::t_22a28753118b4d 488-506
+  s_606919b50c8c26::t_1e80b3046f59e5 377-379
+  s_606919b50c8c26::t_f7fdb0933adafd 321-322
+laya/lang.py
+  s_606919b50c8c26::t_29254e34da71a6 350
+  s_606919b50c8c26::t_43352a902decb2 334-335
+  s_606919b50c8c26::t_33b14b30db67a2 374
+  s_606919b50c8c26::t_d4dfcdae30278c 415-418
+  s_606919b50c8c26::t_633d07b3f900d2 280-284
+  s_606919b50c8c26::t_f6c68f46074610 420-421
+  s_606919b50c8c26::t_81c6278eba19b4 348
+laya/router.py
+  s_606919b50c8c26::t_1127e4a3187c58 38
+  s_606919b50c8c26::t_947a858fa66e8a 467-471
+README.md
+  s_606919b50c8c26::t_fa427a0b9d3a8b 251
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d3f8946d5054d0d50d1a9867f03f49c25ae368c6",
+  "prompts": {},
+  "sessions": {
+    "s_606919b50c8c26": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "461245b2-afef-481c-9f4d-9e0fc8300691",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
