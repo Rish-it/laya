@@ -1,0 +1,23 @@
+tests/test_router.py
+  s_606919b50c8c26::t_eca7365d3b2a50 476-478
+tests/test_lang_guess.py
+  s_606919b50c8c26::t_5d3e302bed6f11 171
+laya/lang.py
+  s_606919b50c8c26::t_999edbeb828b63 68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8d23c792588cf1609eb3249d7c767371a9bbaf51",
+  "prompts": {},
+  "sessions": {
+    "s_606919b50c8c26": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "461245b2-afef-481c-9f4d-9e0fc8300691",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
