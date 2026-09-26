@@ -1,0 +1,29 @@
+README.md
+  s_606919b50c8c26::t_3857286d1a7e7b 322
+tests/test_router.py
+  s_606919b50c8c26::t_a86050f790469c 375-376
+  s_606919b50c8c26::t_0ceecc0d648a6e 635-658
+laya/lang.py
+  s_606919b50c8c26::t_9d44bab51b3298 389-391
+  s_606919b50c8c26::t_6d36563fa4a831 388,404,430,535-538,540-541
+  s_606919b50c8c26::t_177164dda976df 179-181,427-428
+laya/router.py
+  s_606919b50c8c26::t_9d44bab51b3298 534-535
+  s_606919b50c8c26::t_6d36563fa4a831 43,531-533,536-537
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e6a6013f77d0578c8737ab93b49675c9ed601d11",
+  "prompts": {},
+  "sessions": {
+    "s_606919b50c8c26": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "461245b2-afef-481c-9f4d-9e0fc8300691",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
