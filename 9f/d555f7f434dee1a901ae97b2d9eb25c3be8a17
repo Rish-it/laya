@@ -1,0 +1,25 @@
+tests/test_router.py
+  s_606919b50c8c26::t_0ceecc0d648a6e 697,701-703,714,716-722
+  s_606919b50c8c26::t_7892f8df0a46ed 698-700,704-713,715
+laya/lang.py
+  s_606919b50c8c26::t_177164dda976df 182,428
+  s_606919b50c8c26::t_7892f8df0a46ed 179-181,429
+  s_606919b50c8c26::t_6d36563fa4a831 389,405,431,536-539,541-542
+  s_606919b50c8c26::t_9d44bab51b3298 390-392
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9fd555f7f434dee1a901ae97b2d9eb25c3be8a17",
+  "prompts": {},
+  "sessions": {
+    "s_606919b50c8c26": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "461245b2-afef-481c-9f4d-9e0fc8300691",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
