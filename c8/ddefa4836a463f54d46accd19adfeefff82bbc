@@ -1,0 +1,39 @@
+laya/mcp/tools.py
+  s_fbdfe162839f84::t_13499917871fe2 345-352,468-472,604-610,679-687,853-882,884-885,1101-1105,1228-1230
+laya/mcp/server.py
+  s_fbdfe162839f84::t_2cbb025cf6f99c 21-22
+  s_fbdfe162839f84::t_13499917871fe2 131-144,164-176,237-241,514-518
+scripts/test_suites.py
+  s_fbdfe162839f84::t_c55ef9a758eea9 102
+tests/test_mcp_remote.py
+  s_fbdfe162839f84::t_42b69127872489 1-267,269-271,273-289
+  s_fbdfe162839f84::t_2cbb025cf6f99c 268,272
+  s_fbdfe162839f84::t_9921368b4f1319 351-375
+  s_fbdfe162839f84::t_214c6de1c5dc09 290-350
+laya/mcp/remote.py
+  s_fbdfe162839f84::t_c55ef9a758eea9 1-239
+tests/test_hooks_api.py
+  s_fbdfe162839f84::t_c55ef9a758eea9 108-121
+docs/cli-mcp.md
+  s_fbdfe162839f84::t_2cbb025cf6f99c 232-233,235-269
+  s_fbdfe162839f84::t_d0fb0cfe0bf4c4 271-273
+  s_fbdfe162839f84::t_72170287b15684 270
+README.md
+  s_fbdfe162839f84::t_214c6de1c5dc09 1190-1195
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c8ddefa4836a463f54d46accd19adfeefff82bbc",
+  "prompts": {},
+  "sessions": {
+    "s_fbdfe162839f84": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a100a8-c695-7283-923c-9f6890132a9d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
