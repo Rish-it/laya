@@ -1,0 +1,22 @@
+tests/test_packaging.py
+  s_fbdfe162839f84::t_8e51c0933fb738 484-486,496,505-506,513-515,534,574,584-585
+  s_fbdfe162839f84::t_a245ca48c19e3a 586
+nix/laya-serve.nix
+  s_fbdfe162839f84::t_8e51c0933fb738 160-171,334-335
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "59a2bea9790ec5f6aa5fb29c770b36342d5c16a9",
+  "prompts": {},
+  "sessions": {
+    "s_fbdfe162839f84": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a100a8-c695-7283-923c-9f6890132a9d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
