@@ -5,6 +5,7 @@ laya/lang.py
   s_606919b50c8c26::t_177164dda976df 227,487
   s_606919b50c8c26::t_7892f8df0a46ed 224-226,488
   s_606919b50c8c26::t_6d36563fa4a831 434,602-603
+  s_e124f91dddb169::t_fb628f9dad6a3c 435-438,452,455,490-491,597-600
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -16,6 +17,14 @@ laya/lang.py
       "agent_id": {
         "tool": "claude",
         "id": "461245b2-afef-481c-9f4d-9e0fc8300691",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    },
+    "s_e124f91dddb169": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9eb5c834-f067-4d29-9da2-980028e1280e",
         "model": "claude-opus-5-5"
       },
       "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
