@@ -1,0 +1,34 @@
+research/benchmarks/idle_unload/README.md
+  s_fbdfe162839f84::t_d94b9d1d7e6a72 36-63
+  s_fbdfe162839f84::t_7bd53fa92fe4c6 1-35
+research/benchmarks/idle_unload/benchmark.py
+  s_fbdfe162839f84::t_7bd53fa92fe4c6 1-153
+research/benchmarks/idle_unload/results.json
+  s_cbb47b107dbf87::t_7b4781e6b38297 1-619
+research/benchmarks/idle_unload/validation.json
+  s_fbdfe162839f84::t_ea3e35f1eca878 1-96
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bbaec3a16b1dde591c68fc90f33128d065bff731",
+  "prompts": {},
+  "sessions": {
+    "s_cbb47b107dbf87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01a100a8-c695-7283-923c-9f6890132a9d",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    },
+    "s_fbdfe162839f84": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a100a8-c695-7283-923c-9f6890132a9d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
