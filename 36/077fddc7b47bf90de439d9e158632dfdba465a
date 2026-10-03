@@ -1,0 +1,22 @@
+tests/test_train.py
+  s_75cc16748ac65a::t_407fd5cf2c6be0 219-241
+laya/train.py
+  s_75cc16748ac65a::t_407fd5cf2c6be0 525-527
+  s_75cc16748ac65a::t_91ec3e9fd13265 514,531,538-540,546
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "36077fddc7b47bf90de439d9e158632dfdba465a",
+  "prompts": {},
+  "sessions": {
+    "s_75cc16748ac65a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a100dc-0aff-7ee1-bcc6-37fae6aa8b47",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
