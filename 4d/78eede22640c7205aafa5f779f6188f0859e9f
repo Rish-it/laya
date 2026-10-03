@@ -1,0 +1,25 @@
+pyproject.toml
+  s_75cc16748ac65a::t_682a9072a2d9c1 83
+tests/test_train_cli.py
+  s_75cc16748ac65a::t_23d9486ae6b00b 1-52
+scripts/test_suites.py
+  s_75cc16748ac65a::t_23d9486ae6b00b 89
+research/scripts/finetune_single_device.py
+  s_75cc16748ac65a::t_3ac8d3acb0bfbc 1,3-5,13,17-19,23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4d78eede22640c7205aafa5f779f6188f0859e9f",
+  "prompts": {},
+  "sessions": {
+    "s_75cc16748ac65a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a100dc-0aff-7ee1-bcc6-37fae6aa8b47",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
