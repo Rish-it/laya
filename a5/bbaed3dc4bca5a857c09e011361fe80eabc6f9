@@ -1,0 +1,25 @@
+laya-ts/src/router.ts
+  s_e124f91dddb169::t_b2fe6b06dcf38f 1,544-550
+laya-ts/tests/lang.test.ts
+  s_e124f91dddb169::t_755dec35451a03 209-210
+laya-ts/src/lang.ts
+  s_e124f91dddb169::t_b2fe6b06dcf38f 1-2,113-141,185-187,343,360,363-366,396-402,526-527
+laya-ts/tests/undecided-evidence.test.ts
+  s_e124f91dddb169::t_4c8e4e936b9614 1-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a5bbaed3dc4bca5a857c09e011361fe80eabc6f9",
+  "prompts": {},
+  "sessions": {
+    "s_e124f91dddb169": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9eb5c834-f067-4d29-9da2-980028e1280e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
