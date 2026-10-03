@@ -1,0 +1,32 @@
+scripts/build_foreign_words.py
+  s_e124f91dddb169::t_8e579dc5a1e7dd 1-114
+tests/test_router.py
+  s_e124f91dddb169::t_f61677ac7e9b7f 458,461-463,728,732-733,746-766
+laya-ts/src/foreign-words.ts
+  s_e124f91dddb169::t_3a07561d4d4d7f 1-44
+laya/lang.py
+  s_e124f91dddb169::t_4cc11919930d27 263-265
+  s_e124f91dddb169::t_65da309e7576ea 19-20
+  s_e124f91dddb169::t_1443f1054fab8f 527-528
+  s_e124f91dddb169::t_eccafe82472424 170-205
+laya/foreign_words.py
+  s_e124f91dddb169::t_3a07561d4d4d7f 1-48
+laya/router.py
+  s_e124f91dddb169::t_643ab6b66367c9 947
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8aaef1f394066c31e2c4c38ba88e2b960539d173",
+  "prompts": {},
+  "sessions": {
+    "s_e124f91dddb169": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9eb5c834-f067-4d29-9da2-980028e1280e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
