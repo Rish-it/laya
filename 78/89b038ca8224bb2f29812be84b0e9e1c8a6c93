@@ -1,0 +1,25 @@
+tests/test_train.py
+  s_75cc16748ac65a::t_bbdfeb2fe54bfa 204-234
+docs/finetune.md
+  s_75cc16748ac65a::t_9d1e47387ac6cd 82-84
+laya/train.py
+  s_75cc16748ac65a::t_9d58f4c7b6758d 125-126,207-208
+  s_75cc16748ac65a::t_9d1e47387ac6cd 195-196
+  s_75cc16748ac65a::t_32b9734c92ceea 9,596
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7889b038ca8224bb2f29812be84b0e9e1c8a6c93",
+  "prompts": {},
+  "sessions": {
+    "s_75cc16748ac65a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a100dc-0aff-7ee1-bcc6-37fae6aa8b47",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
