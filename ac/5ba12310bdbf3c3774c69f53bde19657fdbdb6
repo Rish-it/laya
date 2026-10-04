@@ -1,0 +1,38 @@
+tests/test_train.py
+  s_75cc16748ac65a::t_bf5933eec75864 70
+tests/test_hooks_api.py
+  s_75cc16748ac65a::t_bf5933eec75864 77
+notebooks/laya_finetune_typed_decisions_2xT4_kaggle.ipynb
+  s_75cc16748ac65a::t_8f88da6a67d3fc 109
+README.md
+  s_75cc16748ac65a::t_8f88da6a67d3fc 1568
+research/scripts/finetune_single_device.py
+  s_75cc16748ac65a::t_bf5933eec75864 5
+laya/train.py
+  s_75cc16748ac65a::t_bf5933eec75864 45
+docs/finetune.md
+  s_75cc16748ac65a::t_bf5933eec75864 79-83
+research/benchmarks/training/README.md
+  s_75cc16748ac65a::t_7d4f2e5d823e04 187-192
+  s_75cc16748ac65a::t_8f88da6a67d3fc 138-143
+notebooks/laya_finetune_typed_decisions_mps.py
+  s_75cc16748ac65a::t_bf5933eec75864 46
+research/benchmarks/training/provenance_check.json
+  s_75cc16748ac65a::t_3fddf84bc053e7 3,16,33-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ac5ba12310bdbf3c3774c69f53bde19657fdbdb6",
+  "prompts": {},
+  "sessions": {
+    "s_75cc16748ac65a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a100dc-0aff-7ee1-bcc6-37fae6aa8b47",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
