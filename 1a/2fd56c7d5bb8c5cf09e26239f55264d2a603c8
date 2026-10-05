@@ -1,0 +1,60 @@
+laya/finetune.py
+  s_75cc16748ac65a::t_4446e7f0e67898 1-353,355-715
+  s_75cc16748ac65a::t_46a17891727b0c 354
+tests/test_train.py
+  s_75cc16748ac65a::t_46a17891727b0c 1-4,11,18-19,22,24,31-60,62-65,67-74,77-85,87-93,95-108,110-313,319-331,333-403
+docs/finetune.md
+  s_75cc16748ac65a::t_46a17891727b0c 127-131,134,153
+README.md
+  s_75cc16748ac65a::t_447ca53afbae57 91,1585,1591
+docs/reference/train.md
+  s_75cc16748ac65a::t_833b181fb02089 7-11
+laya/train.py
+  s_75cc16748ac65a::t_a0ef74c9f9e221 1-26,32-35,37-51,56-63,68,72,74-75,78-98,101-103,106-136,138,140,142-148,151-154,156-197,199-239,241-243,246-248,250-260,263,265-268,271-273,275-284,286-290,293-295,298,300-309,312-313,316,318-446
+notebooks/laya_finetune_typed_decisions_2xT4_kaggle.ipynb
+  s_75cc16748ac65a::t_bfbf48830f9fd8 88,118,138
+notebooks/laya_finetune_typed_decisions_mps.py
+  s_75cc16748ac65a::t_b1e1047153899e 14
+pyproject.toml
+  s_75cc16748ac65a::t_09e19c3ae70e42 83
+research/benchmarks/training/benchmark.py
+  s_75cc16748ac65a::t_e85366fa192a32 97,104
+research/benchmarks/training/gradient_check.py
+  s_75cc16748ac65a::t_01cb6e98c0af85 10
+research/benchmarks/training/input_check.py
+  s_75cc16748ac65a::t_bf3e595baa6f44 19,34
+research/benchmarks/training/reproduction.py
+  s_75cc16748ac65a::t_fe986e31a78622 17,40-41
+research/benchmarks/training/validate.py
+  s_75cc16748ac65a::t_7beb649b45a3e1 22,34
+research/scripts/finetune_single_device.py
+  s_75cc16748ac65a::t_bffeea2c862620 13
+scripts/test_suites.py
+  s_75cc16748ac65a::t_0580ce6812d1f2 89
+tests/test_calibration_persistence.py
+  s_75cc16748ac65a::t_77331b5d55b55d 29,40
+tests/test_finetune.py
+  s_75cc16748ac65a::t_1a3180a10b1aab 1-296
+tests/test_hooks_api.py
+  s_75cc16748ac65a::t_e23b8357a74c7c 30-31,75-79
+tests/test_train_cli.py
+  s_75cc16748ac65a::t_cffd3bc9414460 10,22,32,44
+tests/test_train_ddp.py
+  s_75cc16748ac65a::t_1446b57269c1ca 11,32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1a2fd56c7d5bb8c5cf09e26239f55264d2a603c8",
+  "prompts": {},
+  "sessions": {
+    "s_75cc16748ac65a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a100dc-0aff-7ee1-bcc6-37fae6aa8b47",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
