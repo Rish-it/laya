@@ -1,0 +1,25 @@
+tests/test_mcp.py
+  s_6858a7164c3d92::t_94cce7937d89bd 49,998-1046,1048-1083,1085-1117,1119-1154,3073-3074
+  s_6858a7164c3d92::t_e02b2b1190fae4 1047,1084,1118
+tests/test_hooks_api.py
+  s_6858a7164c3d92::t_94cce7937d89bd 110-118
+laya/mcp/tools.py
+  s_6858a7164c3d92::t_94cce7937d89bd 914,928,933
+  s_6858a7164c3d92::t_6b65250b125a7e 854-913,915-927,929-932,934-948
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bba201104f6e0229a9178e6b0f5da9ffb007e220",
+  "prompts": {},
+  "sessions": {
+    "s_6858a7164c3d92": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1309e-6066-71a3-97a9-37b17b83d66f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
