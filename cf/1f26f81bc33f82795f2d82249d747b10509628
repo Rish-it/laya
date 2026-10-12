@@ -1,0 +1,20 @@
+research/benchmarks/finetune_tournament/plans/h4-groupsonly.json
+  h_0e3d6b6eb02b89 1-26
+research/benchmarks/finetune_tournament/plans/h5-uniform.json
+  h_0e3d6b6eb02b89 1-26
+research/benchmarks/finetune_tournament/plans/h6-deploy.json
+  h_0e3d6b6eb02b89 1-29
+research/benchmarks/finetune_tournament/train.py
+  h_0e3d6b6eb02b89 102-107,113-120,122-125,138-176,266-271
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cf1f26f81bc33f82795f2d82249d747b10509628",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
