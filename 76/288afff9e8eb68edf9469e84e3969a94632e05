@@ -1,0 +1,20 @@
+research/benchmarks/finetune_tournament/batch_eval.py
+  h_0e3d6b6eb02b89 1-68
+research/benchmarks/finetune_tournament/fitcheck.py
+  h_0e3d6b6eb02b89 1-99
+research/benchmarks/finetune_tournament/plans/h8-rlcd-lr3.json
+  h_0e3d6b6eb02b89 1-30
+research/benchmarks/finetune_tournament/plans/h9-hard-softce-lr3.json
+  h_0e3d6b6eb02b89 1-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "76288afff9e8eb68edf9469e84e3969a94632e05",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
