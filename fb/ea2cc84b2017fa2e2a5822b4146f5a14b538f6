@@ -1,0 +1,21 @@
+laya-ts/src/lang.ts
+  s_e124f91dddb169::t_d84d54d4b18894 81-84,97-100,124-127,132-134,136-147,156-179
+laya-ts/tests/undecided-evidence.test.ts
+  s_e124f91dddb169::t_4ca516f7cafbad 21,23-29,34-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fbea2cc84b2017fa2e2a5822b4146f5a14b538f6",
+  "prompts": {},
+  "sessions": {
+    "s_e124f91dddb169": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9eb5c834-f067-4d29-9da2-980028e1280e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
