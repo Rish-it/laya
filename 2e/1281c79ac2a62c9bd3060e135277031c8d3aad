@@ -1,0 +1,18 @@
+research/benchmarks/finetune_tournament/loop.py
+  h_0e3d6b6eb02b89 71-89,92-93
+research/benchmarks/finetune_tournament/teval.py
+  h_0e3d6b6eb02b89 20,32-35
+research/benchmarks/finetune_tournament/train.py
+  h_0e3d6b6eb02b89 299
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2e1281c79ac2a62c9bd3060e135277031c8d3aad",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
