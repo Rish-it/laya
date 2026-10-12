@@ -1,0 +1,22 @@
+README.md
+  s_6858a7164c3d92::t_3eb5aa5660748d 1350,1361-1363,1411-1415,1418
+  s_6858a7164c3d92::t_02b89472191fd9 1416-1417
+docs/cli-mcp.md
+  s_6858a7164c3d92::t_3eb5aa5660748d 170,177-178,189-230,245,329-334
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c490ce5d21421f1571315897bccbb9ac84db42eb",
+  "prompts": {},
+  "sessions": {
+    "s_6858a7164c3d92": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1309e-6066-71a3-97a9-37b17b83d66f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
