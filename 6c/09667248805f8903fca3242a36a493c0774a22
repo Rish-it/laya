@@ -1,0 +1,14 @@
+research/benchmarks/finetune_tournament/plans/h10-unfreeze4.json
+  h_0e3d6b6eb02b89 1-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6c09667248805f8903fca3242a36a493c0774a22",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
