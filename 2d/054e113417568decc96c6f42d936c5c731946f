@@ -1,0 +1,16 @@
+research/benchmarks/finetune_tournament/EXPERIMENTS.md
+  h_0e3d6b6eb02b89 25-27
+research/benchmarks/finetune_tournament/plans/h7-softce-lr3.json
+  h_0e3d6b6eb02b89 1-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2d054e113417568decc96c6f42d936c5c731946f",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
