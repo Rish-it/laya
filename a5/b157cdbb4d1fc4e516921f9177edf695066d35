@@ -1,0 +1,46 @@
+research/benchmarks/finetune_tournament/.gitignore
+  h_0e3d6b6eb02b89 1-4
+research/benchmarks/finetune_tournament/EXPERIMENTS.md
+  h_0e3d6b6eb02b89 1-12
+research/benchmarks/finetune_tournament/README.md
+  h_0e3d6b6eb02b89 1-60
+research/benchmarks/finetune_tournament/aggregate.py
+  h_0e3d6b6eb02b89 1-97
+research/benchmarks/finetune_tournament/common.py
+  h_0e3d6b6eb02b89 1-114
+research/benchmarks/finetune_tournament/compare.py
+  h_0e3d6b6eb02b89 1-103
+research/benchmarks/finetune_tournament/criteria.json
+  h_0e3d6b6eb02b89 1-44
+research/benchmarks/finetune_tournament/inventory.json
+  h_0e3d6b6eb02b89 1-149
+research/benchmarks/finetune_tournament/inventory.py
+  h_0e3d6b6eb02b89 1-111
+research/benchmarks/finetune_tournament/loop.py
+  h_0e3d6b6eb02b89 1-100
+research/benchmarks/finetune_tournament/mine.py
+  h_0e3d6b6eb02b89 1-120
+research/benchmarks/finetune_tournament/plans/h1-headonly.json
+  h_0e3d6b6eb02b89 1-26
+research/benchmarks/finetune_tournament/progress.py
+  h_0e3d6b6eb02b89 1-39
+research/benchmarks/finetune_tournament/splits.py
+  h_0e3d6b6eb02b89 1-94
+research/benchmarks/finetune_tournament/splits/manifest.json
+  h_0e3d6b6eb02b89 1-144
+research/benchmarks/finetune_tournament/teval.py
+  h_0e3d6b6eb02b89 1-272
+research/benchmarks/finetune_tournament/train.py
+  h_0e3d6b6eb02b89 1-376
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a5b157cdbb4d1fc4e516921f9177edf695066d35",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
