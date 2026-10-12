@@ -1,0 +1,18 @@
+research/benchmarks/finetune_tournament/plans/h2-unfreeze4.json
+  h_0e3d6b6eb02b89 1-30
+research/benchmarks/finetune_tournament/plans/h3-softce.json
+  h_0e3d6b6eb02b89 1-27
+research/benchmarks/finetune_tournament/train.py
+  h_0e3d6b6eb02b89 236-237,286-288,303-311
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "734f4af6420852b6c28754c08433e0bbd999c2c2",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
