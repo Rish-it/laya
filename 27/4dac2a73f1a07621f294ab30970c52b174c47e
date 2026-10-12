@@ -1,0 +1,24 @@
+research/benchmarks/finetune_tournament/EXPERIMENTS.md
+  s_5798b335ff14c0::t_e1161798bb352f 31-32
+  s_5798b335ff14c0::t_47bbc4f49a40cb 33-62
+research/benchmarks/finetune_tournament/aggregate.py
+  s_5798b335ff14c0::t_3c31a76a018f8d 73
+research/benchmarks/finetune_tournament/train.py
+  s_5798b335ff14c0::t_960ca894ab5285 126-127,270-271
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "274dac2a73f1a07621f294ab30970c52b174c47e",
+  "prompts": {},
+  "sessions": {
+    "s_5798b335ff14c0": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ed1134b41ffe4EoLpK9WOn5u9M",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
