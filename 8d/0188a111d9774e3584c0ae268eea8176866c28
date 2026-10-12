@@ -1,3 +1,5 @@
+README.md
+  s_36db6a025bd97b::t_d9323075938d70 581
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -5,6 +7,14 @@
   "base_commit_sha": "8d0188a111d9774e3584c0ae268eea8176866c28",
   "prompts": {},
   "sessions": {
+    "s_36db6a025bd97b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01a1309d-bec2-76b2-b459-2e02a51c0589",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    },
     "s_e124f91dddb169": {
       "agent_id": {
         "tool": "claude",
