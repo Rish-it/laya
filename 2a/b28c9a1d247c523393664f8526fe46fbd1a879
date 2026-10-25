@@ -1,0 +1,14 @@
+research/benchmarks/finetune_tournament/calibrate.py
+  h_0e3d6b6eb02b89 1-103
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2ab28c9a1d247c523393664f8526fe46fbd1a879",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

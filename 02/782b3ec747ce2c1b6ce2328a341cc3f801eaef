@@ -1,0 +1,27 @@
+tests/test_mcp.py
+  s_6858a7164c3d92::t_eaf1ad172ae091 1110-1129,1132-1133,1136-1138,1140,3156
+  s_6858a7164c3d92::t_5dd241014402e2 1130-1131,1134-1135,1139,1141-1142
+laya/mcp/server.py
+  s_6858a7164c3d92::t_eaf1ad172ae091 455
+  s_6858a7164c3d92::t_caa915e230bec5 454,456
+docs/cli-mcp.md
+  s_6858a7164c3d92::t_caa915e230bec5 195-196
+laya/mcp/tools.py
+  s_6858a7164c3d92::t_b763eb27c9a091 932-942
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "02782b3ec747ce2c1b6ce2328a341cc3f801eaef",
+  "prompts": {},
+  "sessions": {
+    "s_6858a7164c3d92": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1309e-6066-71a3-97a9-37b17b83d66f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

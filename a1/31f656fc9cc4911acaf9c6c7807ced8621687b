@@ -1,0 +1,25 @@
+laya/lang.py
+  s_606919b50c8c26::t_5a71e5488d3988 72-73
+  s_606919b50c8c26::t_fdbfa4775260b9 67-70
+  s_606919b50c8c26::t_45780612dc6739 71
+tests/test_router.py
+  s_606919b50c8c26::t_833c7a87faed6d 465,467-469,472-477
+  s_606919b50c8c26::t_535eaeefc2af98 466
+  s_606919b50c8c26::t_cb8f856c602c96 470-471
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a131f656fc9cc4911acaf9c6c7807ced8621687b",
+  "prompts": {},
+  "sessions": {
+    "s_606919b50c8c26": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "461245b2-afef-481c-9f4d-9e0fc8300691",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}

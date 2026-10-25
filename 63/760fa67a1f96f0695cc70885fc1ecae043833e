@@ -1,0 +1,21 @@
+research/benchmarks/training/validation.json
+  s_55010c1e8563a1::t_046e332054cf5f 2-5,30,40,51,69,78,80,91,93,103,120,130,141,159,168,170,181,183,193
+research/benchmarks/training/validation_v0_3_26.json
+  s_55010c1e8563a1::t_2ad2216d2b0a1f 1-197
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "63760fa67a1f96f0695cc70885fc1ecae043833e",
+  "prompts": {},
+  "sessions": {
+    "s_55010c1e8563a1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01a100dc-0aff-7ee1-bcc6-37fae6aa8b47",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

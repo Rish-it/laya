@@ -1,0 +1,27 @@
+research/benchmarks/training/audit.py
+  s_75cc16748ac65a::t_b668d0beb0a85a 2,82-93,99-100,118-119
+research/benchmarks/training/README.md
+  s_75cc16748ac65a::t_15a32f6f6e5af2 74,146-164,214-237
+research/benchmarks/training/ablation.json
+  s_75cc16748ac65a::t_89e3d64c2d7764 1
+research/benchmarks/training/audit.json
+  s_75cc16748ac65a::t_3a93f04d89ea25 1-2495
+research/benchmarks/training/compatibility_check.json
+  s_75cc16748ac65a::t_67f0ef25516990 1-72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "780bc1d08bca0ee9c8208e410198bc44b56edc74",
+  "prompts": {},
+  "sessions": {
+    "s_75cc16748ac65a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a100dc-0aff-7ee1-bcc6-37fae6aa8b47",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

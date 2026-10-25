@@ -1,0 +1,31 @@
+research/benchmarks/training/README.md
+  s_75cc16748ac65a::t_9353469f093332 127-135
+research/benchmarks/training/input_check.json
+  s_55010c1e8563a1::t_341f37a38f84c1 146
+research/benchmarks/training/validation.json
+  s_75cc16748ac65a::t_ba2f805c82a545 1-197
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "79d33e65147c633dba2005a75e5f0a8c35d1eca7",
+  "prompts": {},
+  "sessions": {
+    "s_55010c1e8563a1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01a100dc-0aff-7ee1-bcc6-37fae6aa8b47",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    },
+    "s_75cc16748ac65a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a100dc-0aff-7ee1-bcc6-37fae6aa8b47",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

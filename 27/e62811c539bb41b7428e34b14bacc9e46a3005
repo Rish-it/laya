@@ -1,0 +1,19 @@
+README.md
+  s_fbdfe162839f84::t_ff354db45053bc 1194
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "27e62811c539bb41b7428e34b14bacc9e46a3005",
+  "prompts": {},
+  "sessions": {
+    "s_fbdfe162839f84": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a100a8-c695-7283-923c-9f6890132a9d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

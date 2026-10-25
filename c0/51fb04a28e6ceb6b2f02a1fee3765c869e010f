@@ -1,0 +1,26 @@
+laya-ts/tests/undecided-evidence.test.ts
+  s_36db6a025bd97b::t_c9e9547445040a 8,59
+tests/test_router.py
+  s_36db6a025bd97b::t_c9e9547445040a 751,753,755,762,764-765,769,790,793
+tests/test_hooks_api.py
+  s_36db6a025bd97b::t_c93a8937d8725a 91
+  s_36db6a025bd97b::t_31839f02db49f3 85-90,92-94
+laya/lang.py
+  s_36db6a025bd97b::t_c02dcf8f52a389 841,863,890-892,902
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c051fb04a28e6ceb6b2f02a1fee3765c869e010f",
+  "prompts": {},
+  "sessions": {
+    "s_36db6a025bd97b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01a1309d-bec2-76b2-b459-2e02a51c0589",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

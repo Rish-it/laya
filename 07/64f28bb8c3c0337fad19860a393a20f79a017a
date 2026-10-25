@@ -1,0 +1,38 @@
+laya/mcp/server.py
+  s_6858a7164c3d92::t_d26e3a7ac3d604 60,87,400,448-486
+  s_cd94cc080b6075::t_e31752828f991e 487-496
+docs/cli-mcp.md
+  s_6858a7164c3d92::t_d26e3a7ac3d604 164
+tests/test_mcp.py
+  s_6858a7164c3d92::t_c8a79ee986310b 2929
+  s_6858a7164c3d92::t_d26e3a7ac3d604 2088,2102,2124,2885,2887,3091
+  s_6858a7164c3d92::t_8b7c1bc0318efa 2901-2928,2930-2949,3148
+tests/test_hooks_api.py
+  s_6858a7164c3d92::t_d26e3a7ac3d604 119-126
+tests/test_mcp_local_e2e.py
+  s_6858a7164c3d92::t_a02d92890379ab 121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0764f28bb8c3c0337fad19860a393a20f79a017a",
+  "prompts": {},
+  "sessions": {
+    "s_6858a7164c3d92": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1309e-6066-71a3-97a9-37b17b83d66f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    },
+    "s_cd94cc080b6075": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1309d-bec2-76b2-b459-2e02a51c0589",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+laya-ts/tests/router.test.ts
+  s_c0f2a0139d8fc9::t_df28beee8c32d6 6-9,11-43
+  s_c0f2a0139d8fc9::t_7fea431cc6bfd3 10
+tests/test_hooks_api.py
+  s_c0f2a0139d8fc9::t_5d9d66f87e1a95 83-84
+laya-ts/tests/router-batch.test.ts
+  s_c0f2a0139d8fc9::t_7fea431cc6bfd3 40
+laya-ts/tests/hooks.test.ts
+  s_c0f2a0139d8fc9::t_7fea431cc6bfd3 46
+laya-ts/src/router.ts
+  s_c0f2a0139d8fc9::t_5d9d66f87e1a95 124,306
+laya-ts/README.md
+  s_c0f2a0139d8fc9::t_5d9d66f87e1a95 19,29-33
+  s_c0f2a0139d8fc9::t_8d473cd712a01d 34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cda0216bfcfc22c68f612bb101c347fa669022b7",
+  "prompts": {},
+  "sessions": {
+    "s_c0f2a0139d8fc9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11a8e-53a7-7cb0-9297-db970a3e6ad3",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

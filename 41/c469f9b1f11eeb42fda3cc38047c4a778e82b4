@@ -1,0 +1,21 @@
+laya/router.py
+  s_606919b50c8c26::t_a831a86509ab01 310-313
+tests/test_router.py
+  s_606919b50c8c26::t_513b5a7a7ca2ef 239-243
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "41c469f9b1f11eeb42fda3cc38047c4a778e82b4",
+  "prompts": {},
+  "sessions": {
+    "s_606919b50c8c26": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "461245b2-afef-481c-9f4d-9e0fc8300691",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

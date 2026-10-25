@@ -1,0 +1,19 @@
+tests/test_mcp_remote.py
+  s_6858a7164c3d92::t_c17312849e7e0e 18,222-232,346-353,355
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "58922a0d0f3334b12d03d91287e8486b892dc21c",
+  "prompts": {},
+  "sessions": {
+    "s_6858a7164c3d92": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1309e-6066-71a3-97a9-37b17b83d66f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+tests/test_mcp_local_e2e.py
+  s_6858a7164c3d92::t_5a80cf78af25e2 6,298-335,339-351,354-356,400
+  s_6858a7164c3d92::t_0bdafe52cd8173 336-338,352-353
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b20bb71a5a13eb67104653dabb2a94edca7a91fa",
+  "prompts": {},
+  "sessions": {
+    "s_6858a7164c3d92": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1309e-6066-71a3-97a9-37b17b83d66f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

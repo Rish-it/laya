@@ -1,0 +1,19 @@
+tests/test_train.py
+  s_75cc16748ac65a::t_f974e154d13089 197-224
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "84c304ed1ef88ac63c982741b4815225805f297f",
+  "prompts": {},
+  "sessions": {
+    "s_75cc16748ac65a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a100dc-0aff-7ee1-bcc6-37fae6aa8b47",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

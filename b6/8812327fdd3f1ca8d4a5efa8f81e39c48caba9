@@ -1,0 +1,22 @@
+laya/train.py
+  s_75cc16748ac65a::t_45867dfe2936d9 546-547,549-557
+  s_75cc16748ac65a::t_24230fba79ce7d 548
+tests/test_train.py
+  s_75cc16748ac65a::t_45867dfe2936d9 14,267-272,275
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b68812327fdd3f1ca8d4a5efa8f81e39c48caba9",
+  "prompts": {},
+  "sessions": {
+    "s_75cc16748ac65a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a100dc-0aff-7ee1-bcc6-37fae6aa8b47",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": null
+    }
+  }
+}

@@ -1,0 +1,27 @@
+tests/test_serve.py
+  s_fbdfe162839f84::t_bf697b8a4788db 2838-2998
+  s_fbdfe162839f84::t_bd149c66342c8d 36
+README.md
+  s_fbdfe162839f84::t_bf697b8a4788db 665-666
+docs/http-api.md
+  s_fbdfe162839f84::t_bf697b8a4788db 36,50-55,79-81
+  s_fbdfe162839f84::t_6670a4acd13524 82
+laya/serve.py
+  s_fbdfe162839f84::t_3c2cea73683587 31-32,58,216-230,760,790-824,827,831-836,903-904,913,942,990-991,1028,1120
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "81b3af82dcb7cb8865d4bc4a91f526005e7580ca",
+  "prompts": {},
+  "sessions": {
+    "s_fbdfe162839f84": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a100a8-c695-7283-923c-9f6890132a9d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

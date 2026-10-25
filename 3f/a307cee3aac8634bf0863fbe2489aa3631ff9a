@@ -1,0 +1,22 @@
+.github/workflows/ci.yml
+  s_c0f2a0139d8fc9::t_d5610e9f48eb96 248
+  s_c0f2a0139d8fc9::t_dd79455a121a6b 237-238,247,249-250
+tests/test_packaging.py
+  s_c0f2a0139d8fc9::t_b436ba1f52ce76 332-341
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3fa307cee3aac8634bf0863fbe2489aa3631ff9a",
+  "prompts": {},
+  "sessions": {
+    "s_c0f2a0139d8fc9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11a8e-53a7-7cb0-9297-db970a3e6ad3",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": null
+    }
+  }
+}

@@ -1,0 +1,14 @@
+research/benchmarks/finetune_tournament/plans/h12-long-unfreeze4.json
+  h_0e3d6b6eb02b89 1-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "707b459b8525f750c339be17a032d592f52c2cac",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

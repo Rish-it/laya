@@ -1,0 +1,19 @@
+.gitignore
+  s_5798b335ff14c0::t_b3c53f5aeedd85 95-97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "989540bd3cadd6499023e2e3d16a409bb92e03d5",
+  "prompts": {},
+  "sessions": {
+    "s_5798b335ff14c0": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ed1134b41ffe4EoLpK9WOn5u9M",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

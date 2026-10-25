@@ -1,0 +1,32 @@
+research/benchmarks/training/README.md
+  s_75cc16748ac65a::t_9ce20e560da2d1 81-83
+  s_75cc16748ac65a::t_e69ebe67ef767a 21,89-103,109-142
+  s_75cc16748ac65a::t_0c19907c4c7975 104-108
+  s_75cc16748ac65a::t_4c1f94e436cf06 143
+research/benchmarks/training/audit.py
+  s_75cc16748ac65a::t_9ce20e560da2d1 96
+research/benchmarks/training/reproduction.py
+  s_75cc16748ac65a::t_9ce20e560da2d1 34,36,63
+research/benchmarks/training/benchmark.py
+  s_75cc16748ac65a::t_9ce20e560da2d1 136,144,148
+research/benchmarks/training/provenance_check.json
+  s_75cc16748ac65a::t_d205c0805b09bf 1-35
+research/benchmarks/training/reproduction.json
+  s_75cc16748ac65a::t_e17badbbf9c2e2 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3c45f83c29e065e45ae8573c6aed260d5ccd550d",
+  "prompts": {},
+  "sessions": {
+    "s_75cc16748ac65a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a100dc-0aff-7ee1-bcc6-37fae6aa8b47",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

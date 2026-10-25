@@ -1,0 +1,14 @@
+research/benchmarks/finetune_tournament/EXPERIMENTS.md
+  h_0e3d6b6eb02b89 8,10-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "16269ca57bcd91057bcc3884adf04daa5175a1ad",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

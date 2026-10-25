@@ -1,0 +1,19 @@
+laya/lang.py
+  s_e124f91dddb169::t_eb412325987550 226
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "83bc91782a61076f54e43615801bccdb6b7cc9ce",
+  "prompts": {},
+  "sessions": {
+    "s_e124f91dddb169": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9eb5c834-f067-4d29-9da2-980028e1280e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

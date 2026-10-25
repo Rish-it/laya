@@ -1,0 +1,21 @@
+laya-ts/tests/audit-regressions.test.ts
+  s_606919b50c8c26::t_9faa94773131a6 56-59
+laya-ts/src/agent.ts
+  s_606919b50c8c26::t_b40c25c12a36c5 145-150
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "47da8fe6f7293f7ba3c2b8a52589aad42f4772ec",
+  "prompts": {},
+  "sessions": {
+    "s_606919b50c8c26": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "461245b2-afef-481c-9f4d-9e0fc8300691",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

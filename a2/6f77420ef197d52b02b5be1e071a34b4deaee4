@@ -1,0 +1,25 @@
+tests/test_criteria.py
+  s_606919b50c8c26::t_9faa94773131a6 275-278,318-319,321-322
+  s_606919b50c8c26::t_b40c25c12a36c5 320
+  s_606919b50c8c26::t_217e6d113fe6e5 323
+tests/test_server_example.py
+  s_606919b50c8c26::t_fbb4233f4ae9fc 99-102
+laya/agent.py
+  s_606919b50c8c26::t_b40c25c12a36c5 508-510
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a26f77420ef197d52b02b5be1e071a34b4deaee4",
+  "prompts": {},
+  "sessions": {
+    "s_606919b50c8c26": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "461245b2-afef-481c-9f4d-9e0fc8300691",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

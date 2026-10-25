@@ -1,0 +1,32 @@
+laya/lang.py
+  s_606919b50c8c26::t_5a71e5488d3988 72-73
+  s_606919b50c8c26::t_fdbfa4775260b9 67,69-70
+  s_606919b50c8c26::t_45780612dc6739 71
+  s_606919b50c8c26::t_999edbeb828b63 68
+tests/test_router.py
+  s_606919b50c8c26::t_833c7a87faed6d 465,467-469,472-475,484-485
+  s_606919b50c8c26::t_535eaeefc2af98 466
+  s_606919b50c8c26::t_cb8f856c602c96 470-471
+  s_606919b50c8c26::t_513b5a7a7ca2ef 479-483
+  s_606919b50c8c26::t_eca7365d3b2a50 476-478
+laya/router.py
+  s_606919b50c8c26::t_a831a86509ab01 413-416
+tests/test_lang_guess.py
+  s_606919b50c8c26::t_5d3e302bed6f11 171
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f23952106d8c88128b3f43e96142e0fca91eb104",
+  "prompts": {},
+  "sessions": {
+    "s_606919b50c8c26": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "461245b2-afef-481c-9f4d-9e0fc8300691",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}
