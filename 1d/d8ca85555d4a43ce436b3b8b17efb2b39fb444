@@ -1,0 +1,21 @@
+laya/mcp/server.py
+  s_6516faf9438a95::t_062f428e1e572b 504
+tests/test_mcp.py
+  s_6516faf9438a95::t_430251cf264089 3234-3273,3476
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1dd8ca85555d4a43ce436b3b8b17efb2b39fb444",
+  "prompts": {},
+  "sessions": {
+    "s_6516faf9438a95": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9ffac3db-5083-4bce-872a-d95c6e09c112",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
