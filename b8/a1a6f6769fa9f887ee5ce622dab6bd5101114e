@@ -1,0 +1,22 @@
+tests/test_mcp.py
+  s_43aa0c8b5338d3::t_5f716a6cd85ff5 2775-2778
+  s_43aa0c8b5338d3::t_dcd754639a5012 2853-2854
+laya/mcp/tools.py
+  s_43aa0c8b5338d3::t_88f851b0b7cb49 148
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b8a1a6f6769fa9f887ee5ce622dab6bd5101114e",
+  "prompts": {},
+  "sessions": {
+    "s_43aa0c8b5338d3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "df31bea2-9cfd-4711-b969-b72835461dd1",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
